@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+.vscode
+.env
+# come after using parcel
+.cache/  
+dist/   

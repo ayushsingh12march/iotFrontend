@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: rgb(213, 250, 203);
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#nav-logo {
+  /* border: 2px solid red; */
+
+  height: 10vh;
+  width: 20vw;
+}
+.nav-title {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  /* border: 2px solid red; */
+  max-width: 75vw;
+}
